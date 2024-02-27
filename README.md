@@ -1,2 +1,0 @@
-# riemann
-Riemann Academy
