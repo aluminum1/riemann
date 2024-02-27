@@ -9,11 +9,13 @@ To sign up to the mailing list, email Prof Bartlett at bbartlett@sun.ac.za.
 ## Talks
 
 * **Bruce Bartlett**, *The qunitic, the icosahedron and elliptic curves I*. ([Notes](bruce_22Feb2024.pdf))
+  
     Thursday 22 February 2024, 1:10pm in venue 1006.  
 
     I will explain the magical connection between solving the roots of quintic polynomial equations, the icosahedron, and elliptic curves! See [article](<https://math.sun.ac.za/bbartlett/assets/quintic/The quintic, the icosahedron and elliptic curves.pdf>) here (to be published in the Notices of the AMS) and the accompanying [Mathematica notebook](<https://math.sun.ac.za/bbartlett/assets/quintic/The quintic, the icosahedron and elliptic curves.nb>). This is Talk I of a series of talks. Talk II will be later in the year. 
 
 * **Retha Heymann**, *Introduction to Analysis I*.
+  
     Thursday 29 February 2024, 1:10pm in venue 1006. 
 
     I will introduce you to the magical world of analysis! Off to infinity we go, guided by our good friends Epsilon and Delta :-)
