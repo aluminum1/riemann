@@ -8,6 +8,6 @@ To sign up to the mailing list, email Prof Bartlett at bbartlett@sun.ac.za.
 
 ## Talks
 
-* **Bruce Bartlett**, *The qunitic, the icosahedron and elliptic curves*. Thursday 22 February 2024, 1pm in venue 1006.  [Notes](bruce_22Feb2024)
+* **Bruce Bartlett**, *The qunitic, the icosahedron and elliptic curves*. Thursday 22 February 2024, 1pm in venue 1006.  [Notes](bruce_22Feb2024.pdf)
 
     I will explain the magical connection between solving the roots of quintic polynomial equations, the icosahedron, and elliptic curves! See [article](https://math.sun.ac.za/bbartlett/assets/quintic/The quintic, the icosahedron and elliptic curves.pdf) here (to be published in the Notices of the AMS) and the accompanying [Mathematica notebook](https://math.sun.ac.za/bbartlett/assets/quintic/The quintic, the icosahedron and elliptic curves.nb).
