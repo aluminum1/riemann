@@ -4,7 +4,7 @@ The Riemann Academy is a forum to nurture undergraduate and postgraduate mathema
 
 To sign up to the mailing list, email Prof Bartlett at bbartlett@sun.ac.za.
 
-![image](https://math.sun.ac.za/bbartlett/assets/riemann/class_pic.jpg)
+![image](class_pic.jpg)
 
 ## Talks
 
