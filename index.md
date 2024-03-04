@@ -26,3 +26,16 @@ To sign up to the mailing list, email Prof Bartlett at bbartlett@sun.ac.za.
     Thursday 29 February 2024, 1:10pm in venue 1006. 
 
     I will introduce you to the magical world of analysis! Off to infinity we go, guided by our good friends Epsilon and Delta :-)
+
+* **Dirk Basson**, *Using geometry to solve number theoretic problems I*.
+
+  Thursday 29 February 2024, 1:10pm in venue 1006. 
+
+  Most of you probably know that Cartesian geometry can be used to translate problems between algebra and geometry. For example, geometry problems can be encoded using coordinates, while solving systems of equations can
+   be recast as finding intersection points of graphs. Number theory differs from algebra in that we are searching for solutions in the integers or rational numbers, rather than all real numbers. This restriction makes
+   some techniques ineffective, but allows many other techniques to become effective. In this talk I will discuss in what ways the geometric ideas discussed above can carry over to solve number theoretic problems,
+   starting with classifying Pythagorean triples and then moving toward an introduction to elliptic curves.
+
+ 
+
+  
